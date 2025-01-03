@@ -1,0 +1,17 @@
+{
+  "name": "mdb-standard-app",
+  "version": "8.0.0",
+  "homepage": "https://mdbootstrap.com/docs/standard/",
+  "license": "SEE LICENSE IN <License.txt>",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "multer": "^1.4.5-lts.1",
+    "mysql2": "^3.11.4"
+  }
+
+  
+}
+
+
+
